@@ -1,1 +1,1 @@
-# flask-petproject
+# flask-pet-project
